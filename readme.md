@@ -67,8 +67,7 @@ evaluasi.
 
 index.html
 
-![](foto/headerNavbar.jpg){width="6.268055555555556in"
-height="2.3381944444444445in"}
+![](foto/headerNavbar.jpg)
 
 1.  **\<!DOCTYPE html\>**\
     Memberitahu browser kalau dokumen ini adalah **HTML5**.\
@@ -158,8 +157,7 @@ height="2.3381944444444445in"}
 15. **\</ul\> \</nav\> \</header\>**\
     Menutup daftar, navigasi, dan bagian header.
 
-![](foto/mainHtml.jpg){width="6.268055555555556in"
-height="2.402083333333333in"}
+![](foto/mainHtml.jpg)
 
 1.  **\<!\--Bagian utama\--\>**\
     Komentar, hanya catatan untuk programmer, tidak muncul di halaman
@@ -201,8 +199,7 @@ height="2.402083333333333in"}
 10. **\</main\>**\
     Menutup bagian utama halaman.
 
-![](foto/footerHtml.png){width="6.268055555555556in"
-height="7.146527777777778in"}
+![](foto/footerHtml.png)
 
 1.  **\<!\--Bagian footer\--\>**\
     Komentar, hanya catatan untuk programmer, tidak tampil di halaman
@@ -278,8 +275,7 @@ Struktur Folder
 
 about.html
 
-![](foto/mainAbout.jpg){width="6.268055555555556in"
-height="2.9743055555555555in"}
+![](foto/mainAbout.jpg)
 
 1.  **\<!\--Bagian utama\--\>**\
     → Ini adalah **komentar** di HTML. Komentar hanya untuk catatan
@@ -304,8 +300,7 @@ Struktur folder
 
 login.html
 
-![](foto/mainLogin.jpg){width="6.268055555555556in"
-height="3.2381944444444444in"}
+![](foto/mainLogin.jpg)
 
 1.  **\<!\--Bagian utama\--\>**\
     → Komentar, hanya catatan untuk developer, tidak ditampilkan di
@@ -372,15 +367,12 @@ height="3.2381944444444444in"}
 ```
 4.  Kode Hasil Program
 
-![](foto/halaman1.jpg){width="6.268055555555556in"
-height="3.329861111111111in"}![](foto/halaman1(2).jpg){width="6.268055555555556in"
-height="3.329861111111111in"}
+![](foto/halaman1.jpg)
 
-![](foto/halamanAboutUS.jpg){width="6.268055555555556in"
-height="3.329861111111111in"}
+![](foto/halaman1(2).jpg)
 
-![](foto/halamanAboutUS(1).jpg){width="6.268055555555556in"
-height="3.329861111111111in"}
+![](foto/halamanAboutUS.jpg)
 
-![](foto/halamanLogin.jpg){width="6.268055555555556in"
-height="3.329861111111111in"}
+![](foto/halamanAboutUS(1).jpg)
+
+![](foto/halamanLogin.jpg)
