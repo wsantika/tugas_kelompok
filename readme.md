@@ -4,9 +4,6 @@
 
 **Dosen Pengampu: Ir. Gede Humaswara Prathama, S.T., M.T.**
 
-![Universitas Pendidikan Nasional - Wikipedia bahasa Indonesia,
-ensiklopedia bebas](foto/logoUndiknas){width="2.9583333333333335in"
-height="2.9583333333333335in"}
 
 Oleh:
 
