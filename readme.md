@@ -25,9 +25,6 @@ Oleh:
 
 1.  Tujuan
 
-```{=html}
-<!-- -->
-```
 a.  Mampu membuat struktur halaman web dengan menggunakan HTML dan HTML
     Semantik
 
@@ -35,9 +32,8 @@ b.  Mampu menerapkan elemen dari HTML dan HTML Semantik
 
 c.  Membuat halaman website yang rapi, mudah digunakan, dan terstruktur
 
-```{=html}
-<!-- -->
-```
+  -----------------------------------------------------------------------
+
 2.  Pendahuluan
 
 Perkembangan teknologi informasi saat ini telah mendorong munculnya
@@ -103,7 +99,9 @@ index.html
 7.  **\</head\>**\
     Penutup dari bagian \<head\>.
 
-![](media/image3.png){width="6.268055555555556in" height="3.40625in"}
+  -----------------------------------------------------------------------
+
+![](foto/headerNavbar.jpg)
 
 1.  **\<body\>**\
     Bagian utama website yang tampil di layar, semua konten web ditaruh
@@ -157,6 +155,8 @@ index.html
 15. **\</ul\> \</nav\> \</header\>**\
     Menutup daftar, navigasi, dan bagian header.
 
+  -----------------------------------------------------------------------
+
 ![](foto/mainHtml.jpg)
 
 1.  **\<!\--Bagian utama\--\>**\
@@ -198,6 +198,8 @@ index.html
 
 10. **\</main\>**\
     Menutup bagian utama halaman.
+
+  -----------------------------------------------------------------------
 
 ![](foto/footerHtml.png)
 
@@ -271,6 +273,8 @@ index.html
 22. **\</html\>**\
     Menutup dokumen HTML.
 
+  -----------------------------------------------------------------------
+
 Struktur Folder
 
 about.html
@@ -295,6 +299,8 @@ about.html
 
 5.  **\<p\> \... \</p\>**\
     → Digunakan untuk menuliskan paragraf teks.
+
+  -----------------------------------------------------------------------
 
 Struktur folder
 
@@ -362,9 +368,8 @@ login.html
 10. **\</form\>**\
     → Penutup form.
 
-```{=html}
-<!-- -->
-```
+  -----------------------------------------------------------------------
+
 4.  Kode Hasil Program
 
 ![](foto/halaman1.jpg)
